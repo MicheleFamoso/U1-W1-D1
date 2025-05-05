@@ -29,7 +29,7 @@ public static String concatena (String a, int b){
         return a+b;
 }
 public static String[] inserisciInArray ( String[]parole,String a){
-        return   new String[]{parole[0] + parole[1] + a + parole[2] + parole[3] + parole[4]};
+        return   new String[]{parole[0] , parole[1] , a , parole[2] , parole[3] , parole[4]};
 }
 
 }
